@@ -1,0 +1,4 @@
+LotID,LotName,Region,ManagerID
+1,North Lot,North,2
+2,South Lot,South,3
+3,East Lot,East,4
