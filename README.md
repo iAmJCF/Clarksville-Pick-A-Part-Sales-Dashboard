@@ -43,7 +43,6 @@ This dashboard was designed and built in Power BI using normalized data modeled 
 - `Clarksville_Pick_A_Part.pbix` – Main Power BI dashboard
 - `vehicles.csv`, `parts.csv`, `sales.csv`, `customers.csv`, etc. – Data sources
 - `README.md` – Project documentation
-- Optional: `demo.mp4` or screenshots for preview
 
 ## Getting Started
 
